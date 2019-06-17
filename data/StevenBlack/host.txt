@@ -3,3 +3,6 @@
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 cat.hk.as.criteo.com
+0.0.0.0 pix.hk.as.criteo.net
